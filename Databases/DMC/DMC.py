@@ -1,6 +1,7 @@
-# DMC Floss Database
+# DMC Floss Database with rgb numbers
 # Teresa Costa - Jun/2021
 
+# DMC code, DMC name, red number, green number, blue number
 database_rgb = [["Ecru", "Ecru", 240, 234, 218],
                 ["B5200", "Snow White", 255, 255, 255],
                 ["White", "White", 252, 251, 248],

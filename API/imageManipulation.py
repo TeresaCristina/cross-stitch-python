@@ -1,3 +1,6 @@
+# imManipulation: resizes an image
+# Teresa Costa - Jun/2021
+
 from PIL import Image as Im
 
 

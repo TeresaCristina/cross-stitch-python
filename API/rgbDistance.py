@@ -1,6 +1,7 @@
-# RGBDistance: gives the distance between two RGB numbers
+# RGBDistance: compares two RGB numbers and calculates the distance between them
 # Teresa Costa - Jun/2021
 
+# Global variables
 maxDiff = (255**2)*3
 
 
